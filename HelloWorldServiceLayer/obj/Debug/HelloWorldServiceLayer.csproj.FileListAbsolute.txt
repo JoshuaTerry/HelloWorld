@@ -1,0 +1,4 @@
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldServiceLayer\bin\Debug\HelloWorldServiceLayer.dll
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldServiceLayer\bin\Debug\HelloWorldServiceLayer.pdb
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldServiceLayer\obj\Debug\HelloWorldServiceLayer.dll
+C:\Users\Joshua\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorldServiceLayer\obj\Debug\HelloWorldServiceLayer.pdb

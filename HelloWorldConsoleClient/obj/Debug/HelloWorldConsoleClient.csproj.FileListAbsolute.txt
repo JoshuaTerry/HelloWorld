@@ -1,0 +1,11 @@
+c:\users\joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\HelloWorldConsoleClient.exe.config
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\HelloWorldConsoleClient.exe
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\HelloWorldConsoleClient.pdb
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\System.Web.Http.dll
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\bin\Debug\System.Web.Http.xml
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\obj\Debug\HelloWorldConsoleClient.exe
+C:\Users\Joshua\documents\visual studio 2015\Projects\HelloWorld\HelloWorldConsoleClient\obj\Debug\HelloWorldConsoleClient.pdb
